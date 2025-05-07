@@ -1,4 +1,4 @@
-# 💫 HI, I’m Dhana !
+# 💫 Hi, I’m Dhana !
 
 I am simple person who loves coding, learning, sharing knowledge I have good experience working in data engineering as Senior Data Engineer, Data Engineering Manager.
 Excited about learning and exploring anything on data especially spark, python, Machine learning.<br>I am currently interested in learning & building AI topics.<br>I am looking to collaborate on YouTube! Send your ideas to dhana.ai.explore@gmail.com.
