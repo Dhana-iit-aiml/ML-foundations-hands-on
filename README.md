@@ -80,6 +80,8 @@ If the author of ebook found your intelligence proprietary violated because of c
 | Speech and Language Processing                               | [Dan Jurafsky](http://web.stanford.edu/people/jurafsky/), [James H. Martin](http://www.cs.colorado.edu/~martin/) | [[Homepage]](https://web.stanford.edu/~jurafsky/slp3/)[[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Speech%20and%20Language%20Processing%20(3rd%20Edition).pdf) | NLP                           |
 | Neural Network Methods for Natural Language Processing       | Yoav Goldberg                                                | [[PDF]](https://github.com/yanshengjia/machine-learning-road/blob/master/resources/Neural%20Network%20Methods%20for%20Natural%20Language%20Processing.pdf) | NLP                           |
 
+## Thanks
+I thank Vizuara  for being one of the key learning platform initially.
 
 ## Papers
 
